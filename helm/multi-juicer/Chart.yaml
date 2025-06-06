@@ -3,9 +3,9 @@ name: multi-juicer
 description: Run Multi User "Capture the Flags" or Security Trainings with OWASP Juice Shop
 icon: https://raw.githubusercontent.com/juice-shop/multi-juicer/main/images/multijuicer-icon-only.png
 
-home: https://github.com/juice-shop/multi-juicer
+home: https://github.com/jub0bs/multi-juicer
 sources:
-  - https://github.com/juice-shop/multi-juicer
+  - https://github.com/jub0bs/multi-juicer
 
 keywords:
   - security
